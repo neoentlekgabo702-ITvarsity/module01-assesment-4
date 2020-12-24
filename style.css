@@ -1,0 +1,17 @@
+h1{
+    color: black;
+    background-color: lightcoral;
+    padding-left: 420px;
+}
+tr{
+    background-color: lightcoral;
+}
+
+table{
+    margin-left: 330px;
+    border-collapse: collapse;
+}
+
+tr:hover{
+    background-color:darkgray;
+}
